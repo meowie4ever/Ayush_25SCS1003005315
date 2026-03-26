@@ -7,7 +7,7 @@ A Python application that uses computer vision to detect hand gestures and contr
 - 🖱️ **Mouse Movement**: Point your index finger to move the mouse cursor
 - 👆 **Mouse Clicking**: Make a fist to click
 - 📜 **Scrolling**: Open your hand to scroll up/down
-- �� **Real-time Tracking**: Uses Google's MediaPipe Hand Landmarker for accurate hand detection
+- 🎥 **Real-time Tracking**: Uses Google's MediaPipe Hand Landmarker for accurate hand detection
 - ⚡ **Auto Model Download**: Automatically downloads the required AI model on first run
 
 ## 📋 Requirements
